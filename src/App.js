@@ -39,7 +39,11 @@ class App extends React.Component {
       <div>
         <Header />
         <Switch>
-          <Route exact path='/' component={HomePage} />
+          <Route
+            exact
+            path='https://engineer-aslam-hossain.github.io/CRWN_Clothing/'
+            component={HomePage}
+          />
           <Route path='/shop' component={ShopPage} />
           <Route exact path='/checkout' component={CheckOutPage} />
           <Route
