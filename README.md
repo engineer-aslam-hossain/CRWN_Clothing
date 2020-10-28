@@ -1,5 +1,6 @@
 ## Live - [Crown Clothing](https://crwn-clothig.herokuapp.com/)
-Role : Single Page Web App
+<img src="https://imgur.com/dTdAf01.png">
+Role : Front End Web Developer
 
 #### Features :
 - Responsive UI
