@@ -12,7 +12,6 @@ Role : Front End Web Developer
 - User can see the progress status of his order.
 - Admin can add new product
 - Admin can change order’s status to notify the clients about progress.
-- New Changes are require
 
 #### Technologies :
 
